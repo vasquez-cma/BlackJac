@@ -1,2 +1,2 @@
-# BlackJac
+# BlackJack
 BlackJack game made with javascript
